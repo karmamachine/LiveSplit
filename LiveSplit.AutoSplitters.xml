@@ -1692,6 +1692,12 @@
   	<URLs>
   		<URL>https://raw.githubusercontent.com/StarOfDoom/LiveSplitScripts/master/MandagonAutoSplitter.asl</URL>
   	</URLs>
+  	<Games>
+  		<Game>Pokémon Red/Blue</Game>
+  	</Games>
+  	<URLs>
+  		<URL>https://github.com/Maschell/LiveSplit.PokemonRedBlue/releases/download/0.1/LiveSplit.PokemonRedBlue.dll</URL>
+  	</URLs>
   	<Type>Script</Type>
   	<Description>Auto Splitting and Load Removal are available. (By StarOfDoom and Mew)</Description>
   	<Website>https://github.com/StarOfDoom/LiveSplitScripts</Website>
